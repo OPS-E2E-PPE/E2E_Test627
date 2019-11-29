@@ -13,6 +13,20 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"
+    },
+    {
+      "docset_name": "E2E_Test627Doset",
+      "build_source_folder": "A",
+      "build_output_subfolder": "E2E_Test627Doset",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
